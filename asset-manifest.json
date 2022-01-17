@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1db36d6e.chunk.css",
+    "main.css": "/static/css/main.896b6835.chunk.css",
     "main.js": "/static/js/main.ac106c56.chunk.js",
     "main.js.map": "/static/js/main.ac106c56.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.38575d7b.js",
@@ -10,7 +10,7 @@
     "static/js/3.d7ce3f1a.chunk.js": "/static/js/3.d7ce3f1a.chunk.js",
     "static/js/3.d7ce3f1a.chunk.js.map": "/static/js/3.d7ce3f1a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1db36d6e.chunk.css.map": "/static/css/main.1db36d6e.chunk.css.map",
+    "static/css/main.896b6835.chunk.css.map": "/static/css/main.896b6835.chunk.css.map",
     "static/js/2.392f2bec.chunk.js.LICENSE.txt": "/static/js/2.392f2bec.chunk.js.LICENSE.txt",
     "static/media/Cakemania_1896x983.png": "/static/media/Cakemania_1896x983.3d55095d.png",
     "static/media/Nadun Dilshan CV.pdf": "/static/media/Nadun Dilshan CV.71c3767d.pdf",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.38575d7b.js",
     "static/js/2.392f2bec.chunk.js",
-    "static/css/main.1db36d6e.chunk.css",
+    "static/css/main.896b6835.chunk.css",
     "static/js/main.ac106c56.chunk.js"
   ]
 }
