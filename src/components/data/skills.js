@@ -40,7 +40,7 @@ export const SkillsData = [
             },
             {
                 name: "SQL",
-                icon: <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i>,
+                icon: <i class="fas fa-database "></i>,
             },
         ],
     },
