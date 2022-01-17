@@ -11,7 +11,7 @@ function About() {
                     <span className='info-name'>Nadun Dilshan</span>. <br />
                     I love experimenting with the web.
                     <div className="download">
-                        <a download href>
+                        <a download href={require('../../../assets/Nadun Dilshan CV.pdf').default}>
                             <i class="" />
                             Download CV
                         </a>

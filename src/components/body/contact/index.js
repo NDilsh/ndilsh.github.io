@@ -17,7 +17,7 @@ function Contact() {
                 <div className='contact-left'>
                 <label className='msgme'>Hire Me</label>
                 <div className="download">
-                        <a download href>
+                        <a download href={require('../../../assets/Nadun Dilshan CV.pdf').default}>
                             <i class="" />
                             Download CV
                         </a>
