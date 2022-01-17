@@ -45,8 +45,12 @@
   }
   .download a {
     text-decoration: none;
+    color: white;
     
-    
+  }
+
+  .download a:hover{
+    color: #f0341b;
   }
   .download-icon {
     
