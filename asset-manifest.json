@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.085f0ab0.chunk.css",
-    "main.js": "/static/js/main.0070064f.chunk.js",
-    "main.js.map": "/static/js/main.0070064f.chunk.js.map",
+    "main.css": "/static/css/main.924cf220.chunk.css",
+    "main.js": "/static/js/main.32fc8746.chunk.js",
+    "main.js.map": "/static/js/main.32fc8746.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.728ae851.js",
     "runtime-main.js.map": "/static/js/runtime-main.728ae851.js.map",
     "static/js/2.6b8d258e.chunk.js": "/static/js/2.6b8d258e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d6a70180.chunk.js": "/static/js/3.d6a70180.chunk.js",
     "static/js/3.d6a70180.chunk.js.map": "/static/js/3.d6a70180.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.085f0ab0.chunk.css.map": "/static/css/main.085f0ab0.chunk.css.map",
+    "static/css/main.924cf220.chunk.css.map": "/static/css/main.924cf220.chunk.css.map",
     "static/js/2.6b8d258e.chunk.js.LICENSE.txt": "/static/js/2.6b8d258e.chunk.js.LICENSE.txt",
     "static/media/Cakemania_1896x983.png": "/static/media/Cakemania_1896x983.3d55095d.png",
     "static/media/Programming2.gif": "/static/media/Programming2.48c1ab16.gif",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.728ae851.js",
     "static/js/2.6b8d258e.chunk.js",
-    "static/css/main.085f0ab0.chunk.css",
-    "static/js/main.0070064f.chunk.js"
+    "static/css/main.924cf220.chunk.css",
+    "static/js/main.32fc8746.chunk.js"
   ]
 }
