@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.181441fb.chunk.css",
+    "main.js": "/static/js/main.3145efbb.chunk.js",
+    "main.js.map": "/static/js/main.3145efbb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.728ae851.js",
+    "runtime-main.js.map": "/static/js/runtime-main.728ae851.js.map",
+    "static/js/2.6b8d258e.chunk.js": "/static/js/2.6b8d258e.chunk.js",
+    "static/js/2.6b8d258e.chunk.js.map": "/static/js/2.6b8d258e.chunk.js.map",
+    "static/js/3.d6a70180.chunk.js": "/static/js/3.d6a70180.chunk.js",
+    "static/js/3.d6a70180.chunk.js.map": "/static/js/3.d6a70180.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.181441fb.chunk.css.map": "/static/css/main.181441fb.chunk.css.map",
+    "static/js/2.6b8d258e.chunk.js.LICENSE.txt": "/static/js/2.6b8d258e.chunk.js.LICENSE.txt",
+    "static/media/Cakemania.png": "/static/media/Cakemania.ce033a42.png",
+    "static/media/Programming2.gif": "/static/media/Programming2.48c1ab16.gif",
+    "static/media/SLIIT_Logo_Crest.png": "/static/media/SLIIT_Logo_Crest.a12bee6d.png",
+    "static/media/dharmaloka college.png": "/static/media/dharmaloka college.6aff9d09.png",
+    "static/media/instagram.png": "/static/media/instagram.2d5cedd5.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b382.png",
+    "static/media/remedi.png": "/static/media/remedi.07a41354.png",
+    "static/media/sanghabodhi.png": "/static/media/sanghabodhi.ecd4d065.png",
+    "static/media/twitter.png": "/static/media/twitter.7028732e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728ae851.js",
+    "static/js/2.6b8d258e.chunk.js",
+    "static/css/main.181441fb.chunk.css",
+    "static/js/main.3145efbb.chunk.js"
+  ]
+}
