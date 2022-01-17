@@ -17,7 +17,7 @@ export const ProjectData=[
         tag:["Java","Firebase","Android Studio"],
         demo:"",
         github:"https://github.com/AnukaRansika/CAKEMANIA.git",
-        image:require("../../assets/projectpics/Cakemania.png").default,
+        image:require("../../assets/projectpics/Cakemania_1896x983.png").default,
 
     },
 
