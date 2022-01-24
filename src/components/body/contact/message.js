@@ -55,6 +55,8 @@ function Message() {
           />
         </label>
       </div>
+      <input type="hidden" name="_next" value="https://ndilsh.github.io/"></input>
+        <input type="hidden" name="_captcha" value="false"></input>
       <button type="submit">Send</button>
       </form>
     </div>
