@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.896b6835.chunk.css",
-    "main.js": "/static/js/main.334b1603.chunk.js",
-    "main.js.map": "/static/js/main.334b1603.chunk.js.map",
+    "main.js": "/static/js/main.36bb3cf3.chunk.js",
+    "main.js.map": "/static/js/main.36bb3cf3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.38575d7b.js",
     "runtime-main.js.map": "/static/js/runtime-main.38575d7b.js.map",
     "static/js/2.392f2bec.chunk.js": "/static/js/2.392f2bec.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.896b6835.chunk.css.map": "/static/css/main.896b6835.chunk.css.map",
     "static/js/2.392f2bec.chunk.js.LICENSE.txt": "/static/js/2.392f2bec.chunk.js.LICENSE.txt",
     "static/media/Cakemania_1896x983.png": "/static/media/Cakemania_1896x983.3d55095d.png",
-    "static/media/Nadun_Dilshan_CV1.pdf": "/static/media/Nadun_Dilshan_CV1.673efec9.pdf",
+    "static/media/Nadun_Dilshan_CV2.pdf": "/static/media/Nadun_Dilshan_CV2.08ff6c35.pdf",
     "static/media/Programming2.gif": "/static/media/Programming2.48c1ab16.gif",
     "static/media/SLIIT_Logo_Crest.png": "/static/media/SLIIT_Logo_Crest.a12bee6d.png",
     "static/media/dharmaloka college.png": "/static/media/dharmaloka college.6aff9d09.png",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.38575d7b.js",
     "static/js/2.392f2bec.chunk.js",
     "static/css/main.896b6835.chunk.css",
-    "static/js/main.334b1603.chunk.js"
+    "static/js/main.36bb3cf3.chunk.js"
   ]
 }
